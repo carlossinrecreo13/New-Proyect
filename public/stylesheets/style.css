@@ -1,8 +1,21 @@
 body {
+background-color: black;
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: navy;
+  background-image: url("/images/background.jpg");
 }
+background-image{
+  height: "10000"
 
+}
 a {
-  color: #00B7FF;
+  color: #purple;
+}
+nav{
+  background-color: navy;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: purple;
+
 }
